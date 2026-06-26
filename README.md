@@ -101,9 +101,7 @@ SQL *(currently learning)*
 
 ## 📫 Contact
 
-📧 Email: your_email@example.com
-
-💼 LinkedIn: *(coming soon)*
+📧 Email: edolgaev@gmail.com
 
 📂 Portfolio Repository:
 https://github.com/eugerne/data_analysis_portfolio
