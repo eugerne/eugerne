@@ -4,8 +4,6 @@ Hello! I'm Eugene, a Mathematics student with a strong interest in Business, Pro
 
 I enjoy exploring data, discovering meaningful patterns, and transforming analytical results into clear insights that support decision-making.
 
-My mathematical background has taught me to approach problems systematically, while my experience with data analysis allows me to communicate findings through clear visualizations and structured reports.
-
 Currently, I'm building a portfolio of analytical projects focused on solving real-world business problems while continuously improving my skills in statistics, SQL, and Python.
 
 ---
@@ -58,6 +56,8 @@ Jupyter Notebook, Git, VS Code, LaTeX
 ## Contact
 
 Email: edolgaev@gmail.com
+
 Telegram: @eugernee
+
 Portfolio Repository:
 https://github.com/eugerne/data_analysis_portfolio
