@@ -1,12 +1,4 @@
-# Eugene
-
-### Business • Product • Financial Analytics
-
-> Turning data into meaningful insights for better business decisions.
-
----
-
-## 👋 About Me
+ ## About Me
 
 Hello! I'm Eugene, a Mathematics student with a strong interest in Business, Product, and Financial Analytics.
 
@@ -18,7 +10,7 @@ Currently, I'm building a portfolio of analytical projects focused on solving re
 
 ---
 
-## 💡 My Approach
+## My Approach
 
 I believe that data becomes valuable only when it helps answer real business questions.
 
@@ -32,70 +24,34 @@ My typical workflow includes:
 
 ---
 
-## 🎯 Areas of Interest
-
-- 📊 Business Analytics
-- 💰 Financial Analytics
-- 📈 Product Analytics
-- 📉 Data Visualization
-- 📚 Statistical Analysis
-- 💡 Decision Making
+## Areas of Interest
+Business Analytics, Financial Analytics, Product Analytics, Data Visualization, Statistical Analysis, Decision Making
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-SQL *(currently learning)*
-
 ### Libraries
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+Pandas, NumPy, Matplotlib, Seaborn
 
 ### Tools
-
-- Jupyter Notebook
-- Git
-- VS Code
-- LaTeX
+Jupyter Notebook, Git, VS Code, LaTeX
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 | Project | Description | Status |
 |----------|-------------|--------|
-| 🧠 Mental Health & Social Media Analysis | Exploratory data analysis investigating the relationship between screen time and mental well-being among young people. | ✅ Completed |
-| 📊 Business Analytics Portfolio | Collection of business-oriented analytical projects. | 🚧 In Progress |
-| 💰 Financial Analysis | Analysis of financial indicators and business performance. | 📅 Planned |
-| 📈 Sales Performance Analysis | Investigation of sales dynamics and deviations from planned results. | 📅 Planned |
-| 📦 Product Analytics | Customer behavior and product demand analysis. | 📅 Planned |
-
----
-
-## 📖 Currently Learning
-
-- Business Analytics
-- Financial Analytics
-- Statistical Inference
-- SQL
-- Data Visualization
-- A/B Testing
-
----
-
-## 🌱 Current Goals
-
-- Build a strong portfolio of business-oriented analytical projects
-- Improve SQL and statistical analysis skills
-- Gain practical experience through internships
-- Learn modern analytical tools and best practices
+| Mental Health & Social Media Analysis | Exploratory data analysis investigating the relationship between screen time and mental well-being among young people. | ✅ Completed |
+| Business Analytics Portfolio | Collection of business-oriented analytical projects. | 🚧 In Progress |
+| Financial Analysis | Analysis of financial indicators and business performance. | 📅 Planned |
+| Sales Performance Analysis | Investigation of sales dynamics and deviations from planned results. | 📅 Planned |
+| Product Analytics | Customer behavior and product demand analysis. | 📅 Planned |
 
 ---
 
