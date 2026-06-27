@@ -55,9 +55,9 @@ Jupyter Notebook, Git, VS Code, LaTeX
 
 ---
 
-## 📫 Contact
+## Contact
 
-📧 Email: edolgaev@gmail.com
-
-📂 Portfolio Repository:
+Email: edolgaev@gmail.com
+Telegram: @eugernee
+Portfolio Repository:
 https://github.com/eugerne/data_analysis_portfolio
